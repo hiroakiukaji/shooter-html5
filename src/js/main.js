@@ -1,5 +1,5 @@
 // Websocker server address.
-var WEBSOCKET_SERVICE = 'ws://shooter.io/w/';
+var WEBSOCKET_SERVICE = 'ws://shooter-server.192.168.15.91.xip.io/w/';
 
 // Frames configuration.
 var FRAMES_PER_SECOND = 24;

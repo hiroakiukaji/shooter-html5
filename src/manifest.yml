@@ -1,0 +1,6 @@
+---
+applications:
+- name: shooter
+  domain: 192.168.15.91.xip.io
+  buildpack: staticfile_buildpack
+  memory: 16M
